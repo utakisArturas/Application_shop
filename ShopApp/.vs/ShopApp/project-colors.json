@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc6a6095-3b43-47e6-b3dc-2a995e3ab4c7": {
+      "ProjectGuid": "cc6a6095-3b43-47e6-b3dc-2a995e3ab4c7",
+      "DisplayName": "ShopApp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "72be9b5b-b703-472d-850e-1cfefa418c9d": {
+      "ProjectGuid": "72be9b5b-b703-472d-850e-1cfefa418c9d",
+      "DisplayName": "ShopApplicationTests",
+      "ColorIndex": 1
+    },
+    "d301ff87-5fbd-4897-bc2d-be00c991197a": {
+      "ProjectGuid": "d301ff87-5fbd-4897-bc2d-be00c991197a",
+      "DisplayName": "ShopAppTests",
+      "ColorIndex": 2
+    },
+    "b6d67213-c1c8-49d8-b9c6-c595d58ce740": {
+      "ProjectGuid": "b6d67213-c1c8-49d8-b9c6-c595d58ce740",
+      "DisplayName": "ShopAppTestts",
+      "ColorIndex": 3
+    },
+    "63cf0376-fc65-4e41-8f31-020c6e1c3114": {
+      "ProjectGuid": "63cf0376-fc65-4e41-8f31-020c6e1c3114",
+      "DisplayName": "ShopApplicattionTests",
+      "ColorIndex": 4
+    },
+    "9a865260-1674-49ff-acfb-b355de82305b": {
+      "ProjectGuid": "9a865260-1674-49ff-acfb-b355de82305b",
+      "DisplayName": "Shop_Application_Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
